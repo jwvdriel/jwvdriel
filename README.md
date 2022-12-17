@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jan-Willem
 - 👀 I’m interested in coding, music, electrical engineering...
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning html, css, javascript, Python, Flask
 
 
 <!---
